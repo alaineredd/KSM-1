@@ -3,6 +3,9 @@
 - Название команды: огурец с корицей
 - Группа: М8О-107БВ-24
 
+# Отчёт
+[KSM-1](https://docs.google.com/document/d/1hI3-3QNFvZheQqDYHGfjPucomaLsQ2WAsVrShjyexQ8/edit?usp=sharing)
+
 # Состав команды
 - Козлов Артём Викторович - Тимлид, инженер в KSP
 - Лукашов Артём Евгеньевич - Программист 
