@@ -4,8 +4,8 @@
 - Группа: М8О-107БВ-24
 
 # Отчёт
-[KSM-1](https://docs.google.com/document/d/1hI3-3QNFvZheQqDYHGfjPucomaLsQ2WAsVrShjyexQ8/edit?usp=sharing)
-[Видеодемонстрация полёта](https://www.youtube.com/watch?v=z7a4Xt-KveI)
+ - [KSM-1](https://docs.google.com/document/d/1hI3-3QNFvZheQqDYHGfjPucomaLsQ2WAsVrShjyexQ8/edit?usp=sharing)
+ - [Видеодемонстрация полёта](https://www.youtube.com/watch?v=z7a4Xt-KveI)
 
 # Состав команды
 - Козлов Артём Викторович - Тимлид, инженер в KSP
